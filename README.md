@@ -12,7 +12,7 @@ A professional, high-fidelity Snake game built with Python and Pygame. This proj
 
 ## Screenshots
 
-*(Images will be added here)*
+This diamond snake give player a real time experience. While playing this game user can experirence a real visual effects.
 
 ## Installation
 
